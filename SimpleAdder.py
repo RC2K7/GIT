@@ -1,6 +1,6 @@
 
 def SimpleAdd(a, b):
-    return a + b
+    return a + b + 4
 
 def SimpleSub(a, b):
     return a - b
